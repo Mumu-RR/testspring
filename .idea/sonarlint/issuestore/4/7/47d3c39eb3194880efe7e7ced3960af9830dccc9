@@ -1,0 +1,54 @@
+
+U
+java:S1135š"2Complete the task associated to this TODO comment.(Á£Ú„ûÿÿÿÿ8ˆƒÿ·Š/
+E	java:S108N")Either remove or fill this block of code.(¯Ğ«–8ˆƒÿ·Š/
+9
+java:S3626„"Remove this redundant jump.(ÉŠ©ƒ8ˆƒÿ·Š/
+L
+java:S3740z"/Provide the parametrized type for this generic.(Üô¦¬8ˆƒÿ·Š/
+M
+java:S3740Ë"/Provide the parametrized type for this generic.(‰Ã¢ù8ˆƒÿ·Š/
+^	java:S125©"<This block of commented-out lines of code should be removed.(ƒ’Ğ±ûÿÿÿÿ8ˆƒÿ·Š/
+R
+java:S3740‰"/Provide the parametrized type for this generic.(˜œÁÇùÿÿÿÿ8ˆƒÿ·Š/
+Y	java:S125­"<This block of commented-out lines of code should be removed.(ÂÿÊ8ˆƒÿ·Š/
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‘ùš™ûÿÿÿÿ8ˆƒÿ·Š/
+^	java:S125±"<This block of commented-out lines of code should be removed.(¬ÉÚÌøÿÿÿÿ8ˆƒÿ·Š/
+P
+java:S1874-"3Remove this use of "newInstance"; it is deprecated.(Ğà´æ8ˆƒÿ·Š/
+:
+java:S1643¶"Use a StringBuilder instead.(¥ÍÂ¤8ˆƒÿ·Š/
+Q
+java:S3740g"/Provide the parametrized type for this generic.(ºıñ…şÿÿÿÿ8ˆƒÿ·Š/
+i
+java:S1871N"LThis branch's code block is the same as the block for the branch on line 76.(¯Ğ«–8ˆƒÿ·Š/
+V	java:S106•"9Replace this use of System.out or System.err by a logger.(óµêã8ˆƒÿ·Š/
+K
+java:S1604ª"(Make this anonymous inner class a lambda(Îí§‡úÿÿÿÿ8ˆƒÿ·Š/
+Q
+java:S3740A"/Provide the parametrized type for this generic.(†‹Âäùÿÿÿÿ8ˆƒÿ·Š/
+|
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶Ô’ñıÿÿÿÿ8ˆƒÿ·Š/
+R
+java:S3740ì"/Provide the parametrized type for this generic.(Ú€Ñ×úÿÿÿÿ8ˆƒÿ·Š/
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ö™Î›ûÿÿÿÿ8ˆƒÿ·Š/
+P
+java:S1135Ó"2Complete the task associated to this TODO comment.(´ü„¼8ˆƒÿ·Š/
+R
+java:S3740Ÿ"/Provide the parametrized type for this generic.(¶Ô’ñıÿÿÿÿ8ˆƒÿ·Š/
+k
+java:S5361”"HReplace this call to "replaceAll()" by a call to the "replace()" method.(û˜ãüÿÿÿÿ8ˆƒÿ·Š/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ÕÿÄøÿÿÿÿ8ˆƒÿ·Š/
+]	java:S125"<This block of commented-out lines of code should be removed.(òÄëâÿÿÿÿÿ8ˆƒÿ·Š/
+R
+java:S3740Ÿ"/Provide the parametrized type for this generic.(¶Ô’ñıÿÿÿÿ8ˆƒÿ·Š/
+j
+java:S2095»"LUse try-with-resources or close this "URLClassLoader" in a "finally" clause.(ÂñÄ8ˆƒÿ·Š/
+R
+java:S3740½"/Provide the parametrized type for this generic.(Ñ­òşÿÿÿÿ8ˆƒÿ·Š/
+U	java:S106™"9Replace this use of System.out or System.err by a logger.(“û¨y8ˆƒÿ·Š/
+E	java:S108L")Either remove or fill this block of code.(Ä³ÈÀ8ˆƒÿ·Š/
+V
+java:S1874Š"3Remove this use of "newInstance"; it is deprecated.(Û½Ú®ùÿÿÿÿ8ˆƒÿ·Š/

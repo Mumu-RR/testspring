@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b755e3b3-1c54-48b2-b4f6-3c6d5dc57ab3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="JUnit3 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qh4pjVrSUyS294UxbQJWb4vc2s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.yc.biz" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.mimi.bean" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yc" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.huwei.bean" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentBizImplTest">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yc.Test" />
+      <module name="spring3_myspringframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentBizImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring4-aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.biz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yc.biz" />
+      <option name="MAIN_CLASS_NAME" value="com.yc.biz.StudentBizImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentBizImplTest.testAdd (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring4-aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.biz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yc.biz" />
+      <option name="MAIN_CLASS_NAME" value="com.yc.biz.StudentBizImplTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentBizImplTest.testFind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring4-aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.biz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yc.biz" />
+      <option name="MAIN_CLASS_NAME" value="com.yc.biz.StudentBizImplTest" />
+      <option name="METHOD_NAME" value="testFind" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentBizImplTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring4-aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.biz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yc.biz" />
+      <option name="MAIN_CLASS_NAME" value="com.yc.biz.StudentBizImplTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentBizImplTest" />
+        <item itemvalue="JUnit.StudentBizImplTest.testUpdate" />
+        <item itemvalue="JUnit.StudentBizImplTest.testAdd (1)" />
+        <item itemvalue="JUnit.StudentBizImplTest.testFind" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b755e3b3-1c54-48b2-b4f6-3c6d5dc57ab3" name="Default Changelist" comment="" />
+      <created>1617518674623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617518674623</updated>
+      <workItem from="1617518694155" duration="6800000" />
+      <workItem from="1617532929464" duration="1877000" />
+      <workItem from="1617584954636" duration="4975000" />
+      <workItem from="1617610913389" duration="13599000" />
+      <workItem from="1617708352919" duration="1118000" />
+      <workItem from="1617709637986" duration="1190000" />
+      <workItem from="1617966047639" duration="12793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1617527532811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1617527532811" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1618057483627">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1618057483627" />
+    <state x="499" y="158" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1617625800596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1617625800596" />
+    <state x="547" y="153" key="FileChooserDialogImpl" timestamp="1618057688593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="547" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618057688593" />
+    <state x="638" y="309" key="Github.ShareDialog" timestamp="1618057838674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="309" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1618057838674" />
+    <state x="424" y="109" key="Github.UntrackedFilesDialog" timestamp="1618057846644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="109" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1618057846644" />
+    <state width="1493" height="230" key="GridCell.Tab.0.bottom" timestamp="1618052442032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618052442032" />
+    <state width="1493" height="230" key="GridCell.Tab.0.center" timestamp="1618052442026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618052442026" />
+    <state width="1493" height="230" key="GridCell.Tab.0.left" timestamp="1618052442024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618052442024" />
+    <state width="1493" height="230" key="GridCell.Tab.0.right" timestamp="1618052442029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618052442029" />
+    <state width="1493" height="375" key="GridCell.Tab.1.bottom" timestamp="1618050575661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618050575661" />
+    <state width="1493" height="375" key="GridCell.Tab.1.center" timestamp="1618050575658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1618050575658" />
+    <state width="1493" height="375" key="GridCell.Tab.1.left" timestamp="1618050575658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1618050575658" />
+    <state width="1493" height="375" key="GridCell.Tab.1.right" timestamp="1618050575659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1618050575659" />
+    <state x="414" y="113" key="RollbackChangesDialog" timestamp="1618057961222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="414" y="113" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1618057961222" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1617709976764">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617709976764" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1618057792816">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1618057792816" />
+    <state x="540" y="181" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1617968958494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="181" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1617968958494" />
+    <state x="178" y="72" key="new project wizard" timestamp="1618053532316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1618053532316" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1617711997078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1617711997078" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1617710174944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1617710174944" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/spring3_myspringframework/src/main/java/com/yc/springframework/context/MyAnnotationConfigApplicationContext.java</url>
+          <line>27</line>
+          <properties class="com.yc.springframework.context.MyAnnotationConfigApplicationContext" method="register">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring3_myspringframework/src/main/java/com/yc/springframework/context/MyAnnotationConfigApplicationContext.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring3_myspringframework/src/main/java/com/yc/springframework/context/MyAnnotationConfigApplicationContext.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring3_myspringframework/src/main/java/com/yc/springframework/context/MyAnnotationConfigApplicationContext.java</url>
+          <line>233</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring3_myspringframework/src/main/java/com/yc/springframework/context/MyAnnotationConfigApplicationContext.java</url>
+          <line>247</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring4-aop/src/test/java/com/yc/biz/StudentBizImplTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
