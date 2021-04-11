@@ -5,8 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/spring1_helloworld/spring1_helloworld.iml" filepath="$PROJECT_DIR$/spring1_helloworld/spring1_helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring2_caltools/spring2_caltools.iml" filepath="$PROJECT_DIR$/spring2_caltools/spring2_caltools.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring3_myspringframework/spring3_myspringframework.iml" filepath="$PROJECT_DIR$/spring3_myspringframework/spring3_myspringframework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring4-aop/spring4-aop.iml" filepath="$PROJECT_DIR$/spring4-aop/spring4-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4_aop/spring4_aop.iml" filepath="$PROJECT_DIR$/spring4_aop/spring4_aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring5_selfaop_jdkproxy/spring5_selfaop_jdkproxy.iml" filepath="$PROJECT_DIR$/spring5_selfaop_jdkproxy/spring5_selfaop_jdkproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring6_selfaop_cglibproxy/spring6_selfaop_cglibproxy.iml" filepath="$PROJECT_DIR$/spring6_selfaop_cglibproxy/spring6_selfaop_cglibproxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/testspring.iml" filepath="$PROJECT_DIR$/.idea/testspring.iml" />
     </modules>
   </component>
