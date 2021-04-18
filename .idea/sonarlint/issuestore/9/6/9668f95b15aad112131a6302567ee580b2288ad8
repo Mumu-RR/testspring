@@ -1,0 +1,14 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïìûÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(œ÷•Ìÿÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¹‡Úì
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Èá¾
+S	java:S106("9Replace this use of System.out or System.err by a logger.(œ÷•Ìÿÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Éææ¼üÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(Èá¾
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(×Å„Ñûÿÿÿÿ
+4
+java:S21193"Save and re-use this "Random".(¡Å”¦
+\
+java:S21426"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(Éææ¼üÿÿÿÿ

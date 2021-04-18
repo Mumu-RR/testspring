@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring4_aop/spring4_aop.iml" filepath="$PROJECT_DIR$/spring4_aop/spring4_aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring5_selfaop_jdkproxy/spring5_selfaop_jdkproxy.iml" filepath="$PROJECT_DIR$/spring5_selfaop_jdkproxy/spring5_selfaop_jdkproxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring6_selfaop_cglibproxy/spring6_selfaop_cglibproxy.iml" filepath="$PROJECT_DIR$/spring6_selfaop_cglibproxy/spring6_selfaop_cglibproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring7_tx/spring7_tx.iml" filepath="$PROJECT_DIR$/spring7_tx/spring7_tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot1/springboot1.iml" filepath="$PROJECT_DIR$/springboot1/springboot1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/testspring.iml" filepath="$PROJECT_DIR$/.idea/testspring.iml" />
     </modules>
   </component>

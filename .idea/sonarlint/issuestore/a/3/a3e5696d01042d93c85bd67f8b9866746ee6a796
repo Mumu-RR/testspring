@@ -1,4 +1,10 @@
 
-L
-java:S1068"*Remove this unused "target" private field.(¡ÃÔ½úÿÿÿÿ8á¿ßÝ‹/
-]	java:S125"<This block of commented-out lines of code should be removed.(Ï²Ž×ûÿÿÿÿ8¿æöÝ‹/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(´Œüœ8Ê¯Æ…Œ/
+X	java:S125"<This block of commented-out lines of code should be removed.(˜¸Ïà8›Ù…Œ/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ðÕŒˆüÿÿÿÿ8ŠòÄ…Œ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²ÂÆ™8 öÉ„Œ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(üÝóÍ8ÅÃÅ„Œ/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(©üÃõüÿÿÿÿ8š¢È…Œ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(òÓ¹þ8ÙôÆ„Œ/
+€
+java:S1488 "cImmediately return this expression instead of assigning it to the temporary variable "returnValue".(†ëå¿8Ü¼Ï„Œ/
