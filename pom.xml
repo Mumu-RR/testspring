@@ -16,6 +16,7 @@
         <module>spring5_selfaop_jdkproxy</module>
         <module>spring6_selfaop_cglibproxy</module>
         <module>spring7_tx</module>
+        <module>Testmystarter</module>
     </modules>
 
     <properties>
@@ -35,6 +36,11 @@
 
     <dependencyManagement>
         <dependencies>
+            <dependency>
+                <groupId>com.yc.starter</groupId>
+                <artifactId>hellostarter</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
+            </dependency>
             <dependency>
                 <groupId>org.springframework</groupId>
                 <artifactId>spring</artifactId>

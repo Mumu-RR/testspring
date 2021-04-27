@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybank/mybank.iml" filepath="$PROJECT_DIR$/mybank/mybank.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring1_helloworld/spring1_helloworld.iml" filepath="$PROJECT_DIR$/spring1_helloworld/spring1_helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring2_caltools/spring2_caltools.iml" filepath="$PROJECT_DIR$/spring2_caltools/spring2_caltools.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring3_myspringframework/spring3_myspringframework.iml" filepath="$PROJECT_DIR$/spring3_myspringframework/spring3_myspringframework.iml" />
@@ -10,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring6_selfaop_cglibproxy/spring6_selfaop_cglibproxy.iml" filepath="$PROJECT_DIR$/spring6_selfaop_cglibproxy/spring6_selfaop_cglibproxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring7_tx/spring7_tx.iml" filepath="$PROJECT_DIR$/spring7_tx/spring7_tx.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot1/springboot1.iml" filepath="$PROJECT_DIR$/springboot1/springboot1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmystarter/testmystarter.iml" filepath="$PROJECT_DIR$/testmystarter/testmystarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmystarter_mysqlstarter/testmystarter_mysqlstarter.iml" filepath="$PROJECT_DIR$/testmystarter_mysqlstarter/testmystarter_mysqlstarter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/testspring.iml" filepath="$PROJECT_DIR$/.idea/testspring.iml" />
     </modules>
   </component>

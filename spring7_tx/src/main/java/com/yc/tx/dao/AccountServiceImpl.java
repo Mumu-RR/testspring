@@ -34,14 +34,15 @@ public class AccountServiceImpl implements AccountService{
     }
 
     @Override
-    public Accounts deposite(Accounts account, double money) {
+    public Accounts deposite(Accounts account, double money, String optype, String transferid) {
         return null;
     }
 
     @Override
-    public Accounts withdraw(Accounts account, double money) {
+    public Accounts withdraw(Accounts account, double money, String optype, String transferid) {
         return null;
     }
+
 
     @Override
     public Accounts transfer(Accounts inAccount, Accounts outAccount, double money) {

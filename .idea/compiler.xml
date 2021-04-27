@@ -6,17 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring6_selfaop_cglibproxy" />
+        <module name="testmystarter" />
+        <module name="testmystarter_mysqlstarter" />
         <module name="spring2_caltools" />
-        <module name="spring5_selfaop_jdkproxy" />
+        <module name="spring6_selfaop_cglibproxy" />
         <module name="spring7_tx" />
-        <module name="spring4_aop" />
+        <module name="mybank" />
+        <module name="spring5_selfaop_jdkproxy" />
         <module name="spring1_helloworld" />
+        <module name="spring4_aop" />
         <module name="spring3_myspringframework" />
         <module name="springboot1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="mybank" target="1.8" />
       <module name="spring1_helloworld" target="1.8" />
       <module name="spring2_caltools" target="1.8" />
       <module name="spring3_myspringframework" target="1.8" />
@@ -26,12 +30,19 @@
       <module name="spring6_selfaop_cglibproxy" target="1.8" />
       <module name="spring7_tx" target="1.8" />
       <module name="springboot1" target="1.8" />
+      <module name="springboot_bank" target="1.8" />
+      <module name="testmystarter" target="1.8" />
+      <module name="testmystarter_mysqlstarter" target="1.8" />
       <module name="testspring" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mybank" options="-parameters" />
       <module name="springboot1" options="-parameters" />
+      <module name="springboot_bank" options="-parameters" />
+      <module name="testmystarter" options="-parameters" />
+      <module name="testmystarter_mysqlstarter" options="-parameters" />
     </option>
   </component>
 </project>
